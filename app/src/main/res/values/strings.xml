@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CameraX-App</string>
+    <string name="label_take_photo">Tomar una Foto</string>
 </resources>
