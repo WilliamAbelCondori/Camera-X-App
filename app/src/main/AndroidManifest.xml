@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.william.camerax_app">
 
-    <uses-feature android:name="android.hardware.camera.any" />
+    <uses-feature android:name="android.hardware.camera2.any" />
     <uses-permission android:name="android.permission.CAMERA"/>
     <application
         android:allowBackup="true"
